@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @philomatix
 - 👀 I’m interested in IT Systems Development, most common languages and appliccations
-- 🌱 I’m currently learning IT Systems Development
+- 🌱 I’m currently learning IT Systems Development (Full Stack Web and Software Developer)
 - 💞️ I’m looking to collaborate on IT Systems Development
 - 📫 How to reach me ...
 
